@@ -1,0 +1,3 @@
+adding new lines
+my lst line
+ends
